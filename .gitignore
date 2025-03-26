@@ -1,0 +1,50 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Static files (if generated)
+staticfiles/
+
+# Node modules (if using npm)
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Database files
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+.code-workspace
+localtools
